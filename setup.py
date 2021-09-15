@@ -9,6 +9,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/mike-huls/toolbox/issues"
     },
     license='MIT',
-    packages=['toolbox'],
+    packages=['raceplotly_happiness'],
     install_requires=['plotly', 'pandas', 'numpy', 'datetime'],
 )
